@@ -1,4 +1,4 @@
-# Modern Block Cipher Cryptosystem
+# Block Cipher Cryptosystem
 
 Welcome to the repository for the **Modern Block Cipher Cryptosystem** project developed for SWE 314 — Software Security Engineering, Fall 2019. This project represents our efforts in designing and implementing a novel cryptosystem, showcasing various cryptographic techniques in Java.
 
