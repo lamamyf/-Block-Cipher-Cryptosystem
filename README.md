@@ -1,6 +1,6 @@
 # Block Cipher Cryptosystem
 
-This project was developed for SWE 314 — Software Security Engineering, Fall 2019. This project represents our efforts in designing and implementing a novel cryptosystem, showcasing various cryptographic techniques in Java.
+This project was developed for SWE 314 — Software Security Engineering, Fall 2019. It represents our efforts in designing and implementing a novel cryptosystem, showcasing various cryptographic techniques in Java.
 
 ## Project Overview
 
